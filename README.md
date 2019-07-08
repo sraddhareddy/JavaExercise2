@@ -1,5 +1,7 @@
 # JavaExercise2
 In source folder 2 subfolders are present:Java and Test. All java files are tested with testcases. All testcases are written in test.java classes in test folder.
+
+
 1.
 Write a Java method to Reverse the given input & Check if it is a Palindrome.
 ------------------------------------------------------------------------------------------------------------------------
